@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "NuGet_Test/1.0.0": {
+        "dependencies": {
+          "SymbolCounter": "1.0.1"
+        },
+        "runtime": {
+          "NuGet_Test.dll": {}
+        }
+      },
+      "SymbolCounter/1.0.1": {
+        "runtime": {
+          "lib/net9.0-windows7.0/Library.dll": {
+            "assemblyVersion": "1.0.1.0",
+            "fileVersion": "1.0.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NuGet_Test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SymbolCounter/1.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-C5KSnJPDM0War75X70WFo+MVUYaEla0PckKtcu6NeweHIXpsORxGZAehzWwrCct81J+m8d87CJ3G1u1amX/E0w==",
+      "path": "symbolcounter/1.0.1",
+      "hashPath": "symbolcounter.1.0.1.nupkg.sha512"
+    }
+  }
+}

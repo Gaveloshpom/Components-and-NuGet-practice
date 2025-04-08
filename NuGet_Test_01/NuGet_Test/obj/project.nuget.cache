@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "V6W+uQWEimw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gavel\\OneDrive\\Робочий стіл\\Архітектура_C#\\NuGet_Test\\NuGet_Test\\NuGet_Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gavel\\.nuget\\packages\\symbolcounter\\1.0.1\\symbolcounter.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
